@@ -1,0 +1,61 @@
+//  Assignment # Q-1
+// 01   personal message
+
+let message1: string = 'Hello Everyone!';
+let Message2: string = "would you like to do some code today?";
+
+console.log(message1);
+console.log(Message2);
+
+// 02   name case
+
+let myName: string = "Areeba";
+let lastName:string = "Tahira";
+
+console.log(myName);
+console.log(lastName);
+
+// 03   Famous Quote
+
+let famousQuote1:string = "Albert Einstein once said, 'A person who never made a mistake never tried anything new.'";
+console.log(famousQuote1);
+
+
+let famousQuote2:string = "Scott Adams once said, 'Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.'";
+console.log(famousQuote2);
+
+
+// 04  stripping name
+
+// Store a person's name with some whitespace characters
+
+let myName1: string = "\t\n  Areeb  \n\t";
+
+console.log(myName1);
+
+console.log(myName1.trim());
+
+// 05   Write addition, subtraction, multiplication, and division operations that each result in the number 8
+
+// Addition
+console.log (5 + 3); 
+
+// Subtraction
+console.log(10 - 2);
+
+// Multiplication
+console.log(4 * 2); 
+
+// Division
+console.log(16 / 2); 
+
+
+//06  Store your favorite number in a variable
+let favoriteNumber = 1971 ;
+
+// Create a message that reveals your favorite number
+let message = "My favorite number is 😊 " + favoriteNumber;
+
+console.log(message); 
+
+
