@@ -1,0 +1,23 @@
+var message1 = 'Hello Everyone!';
+var Message2 = "would you like to do some code today?";
+console.log(message1);
+console.log(Message2);
+var myName = "Areeba";
+var lastName = "Tahira";
+console.log(myName);
+console.log(lastName);
+var famousQuote1 = "Albert Einstein once said, 'A person who never made a mistake never tried anything new.'";
+console.log(famousQuote1);
+var famousQuote2 = "Scott Adams once said, 'Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.'";
+console.log(famousQuote2);
+var myName1 = "\t\n  Areeb  \n\t";
+console.log(myName1);
+console.log(myName1.trim());
+console.log(5 + 3);
+console.log(10 - 2);
+console.log(4 * 2);
+console.log(16 / 2);
+var favoriteNumber = 1971;
+var message = "My favorite number is 😊 " + favoriteNumber;
+console.log(message);
+//# sourceMappingURL=index.js.map
